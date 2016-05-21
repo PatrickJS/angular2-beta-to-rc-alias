@@ -1,6 +1,6 @@
 {
   "name": "@angularclass/angular2-beta-to-rc-alias",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Alias Angular 2 beta.17 3rd party modules to Angular 2 rc.1 modules",
   "files": [
     "dist",
