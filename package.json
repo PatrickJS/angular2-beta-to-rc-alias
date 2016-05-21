@@ -1,0 +1,21 @@
+{
+  "name": "@angularclass/angular2-beta-to-rc-alias",
+  "version": "0.0.0",
+  "description": "Alias Angular 2 beta.17 3rd party modules to Angular 2 rc.1 modules",
+  "files": [
+    "beta-17"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdi2290/angular2-beta-to-rc-alias.git"
+  },
+  "author": "PatrickJS <patrick@angularclass.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gdi2290/angular2-beta-to-rc-alias/issues"
+  },
+  "homepage": "https://github.com/gdi2290/angular2-beta-to-rc-alias#readme"
+}
