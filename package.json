@@ -7,9 +7,10 @@
     "src"
   ],
   "scripts": {
-    "prebuild": "rm -rf dist",
+    "prebuild": "rm -rf dist/",
     "build": "tsc || true",
-    "prepublish": "npm run build",
+    "typings": "typings",
+    "prepublish": "npm run typings -- install && npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
