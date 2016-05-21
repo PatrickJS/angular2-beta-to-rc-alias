@@ -4,11 +4,13 @@ Alias Angular 2 beta.17 3rd party modules to Angular 2 rc.1 modules
 
 `webpack`
 ```typescript
+module.exports = {
   resolve: {
     alias: {
       'angular2': path.join(__dirname, 'node_modules', '@angularclass', 'angular2-beta-to-rc-alias', 'dist', 'beta-17'),
     },
-  },
+  }
+}
 ```
 `typings 1.0.x`
 ```bash
