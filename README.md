@@ -1,6 +1,12 @@
 # Angular 2 Beta to Rc alias
 Alias Angular 2 beta.17 3rd party modules to Angular 2 rc.1 modules
 
+
+`typings 1.0.x`
+```
+typings install file:./node_modules/@angularclass/angular2-beta-to-rc-alias/src/beta-17/typings.d.ts --global --save
+```
+
 ___
 
 enjoy — **AngularClass**
