@@ -1,1 +1,1 @@
-export * from '@angular/router-deprecated';
+export * from '@angular/router';

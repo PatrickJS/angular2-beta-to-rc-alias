@@ -1,5 +1,5 @@
 # Angular 2 Beta to Rc alias
-Alias Angular 2.0.0-beta.17 3rd party modules to Angular 2.0.0-rc.1 modules
+Alias Angular 2.0.0-beta.17 3rd party modules to Angular 2.0.0-rc.3 modules
 
 
 `webpack`
