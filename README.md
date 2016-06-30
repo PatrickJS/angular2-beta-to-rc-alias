@@ -15,7 +15,7 @@ module.exports = {
 }
 ```
 
-`typings 1.0.x`
+`typings 1.x.x`
 ```bash
 typings install file:./node_modules/@angularclass/angular2-beta-to-rc-alias/src/beta-17/typings.d.ts --global --save
 ```
